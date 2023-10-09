@@ -1,0 +1,110 @@
+#wrapper{
+    max-width: 759px;
+    margin:0 auto;
+    padding: 0;
+    background-color:purple;
+    border-radius: 5px;
+}
+
+#header{
+    margin:  0 auto;
+    width: 720px;
+    background-color: rgb(247, 5, 247);
+    border-radius: 5px;
+}
+
+#header h1{
+    color: white;
+    margin-left: 20px;
+}
+
+#header img{
+    float: left;
+}
+
+#header ul{
+    margin-right: 230px;
+    margin-top: -50px;
+}
+
+#header ul li{
+    list-style: none;
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+#header ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+#contenthead{
+    margin-left: 15px;
+}
+
+#contenthead img{
+    width: 720px;
+    height: 300px;
+    border-radius: 20px;
+    margin-top: -10px;
+
+}
+
+#about img{
+    border-radius: 100px;
+    width: 150px;
+    height: 150px;
+    margin-top: -50px;
+    margin-left: 20px;
+}
+
+#about h1{
+    float: right;
+    color: white;
+    margin-right: 360px;
+    margin-top: -5px;
+}
+
+#about p{
+    color: white;
+    float: right;
+    margin-right: 350px;
+    margin-top: -65px;
+}
+
+#about hr{
+    margin-left: -15px;
+}
+
+#about ul li{
+    list-style: none;
+    float: left;
+    background-color: white;
+    padding: 6px 6px 6px 6px ;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+#about ul li a{
+    text-decoration: none;
+    color: black;
+
+}
+
+#about{
+    background-color:burlywood;
+    width: 720px;
+    height: 180px;
+
+}
+
+#about ul li:hover{
+    background-color: black;
+    padding: 6px 6px 6px 6px ;
+}
+
+#about ul li a:hover{
+    color: white;
+}
+
